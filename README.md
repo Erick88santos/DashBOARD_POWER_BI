@@ -1,5 +1,6 @@
 # SIMPLIFICA POWER BI
-CURSO
+
+✔ POWER BI
 
 🧐 Informações Importantes:
 
