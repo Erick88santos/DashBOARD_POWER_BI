@@ -4,7 +4,14 @@
 
 🧐 Informações Importantes:
 
-📊 Material do Curso: https://bit.ly/pbi03-material
+📊 Material do Curso: 
+```
+https://bit.ly/pbi03-material
+```
+
+```
+https://bit.ly/pbi03-material
+```
 
 🖥️ Aula extras: https://bit.ly/pbi-aulas-extras
 
