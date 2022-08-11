@@ -12,6 +12,7 @@ https://bit.ly/pbi03-material
 ```
 https://bit.ly/pbi03-material
 ```
+🎈 [PALETA DE COR HEXADECIMAL](https://www.color-hex.com/)
 
 🖥️ Aula extras: https://bit.ly/pbi-aulas-extras
 
