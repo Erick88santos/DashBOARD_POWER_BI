@@ -4,7 +4,7 @@
 
 <div align="center">
 
- <img src="https://github.com/Erick88santos/DashBOARD_POWER_BI/issues/3#issue-1465183513" width="350px"/>
+ <img src="https://user-images.githubusercontent.com/71516100/204097116-1d703e91-ed52-4726-8436-a4cfb3c71dd8.png" width="350px"/>
  
 </div>
 
