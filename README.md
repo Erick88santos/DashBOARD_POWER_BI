@@ -1,6 +1,5 @@
-# SIMPLIFICA POWER BI
+#  <div align="center"> SIMPLIFICA POWER BI </div>
 
-✔ POWER BI
 
 
 <div align="center">
@@ -9,6 +8,7 @@
  
 </div>
 
+✔ POWER BI
 
 🧐 Informações Importantes:
 
