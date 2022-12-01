@@ -1,3 +1,7 @@
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20DESENVOLVIDO&color=GREEN&style=for-the-badge)
+
+
 #  <div align="center"> DASHBOARD POWER BI </div>
 
 
